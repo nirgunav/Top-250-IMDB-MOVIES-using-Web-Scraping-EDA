@@ -1,0 +1,251 @@
+Rank,Title,Year,Rating,Votes,Votes_log,Runtime_Mins,Runtime_Period,Genre,Content Rating,URL,Decade
+1,The Shawshank Redemption,1994,9.3,3150928,14.96,142,Medium,Drama,Restricted,https://www.imdb.com/title/tt0111161/,1990
+2,The Godfather,1972,9.2,2198804,14.6,175,Long,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0068646/,1970
+3,The Dark Knight,2008,9.1,3126599,14.96,152,Long,"Action, Crime, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt0468569/,2000
+4,The Godfather Part II,1974,9.0,1478111,14.21,202,Long,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0071562/,1970
+5,12 Angry Men,1957,9.0,971121,13.79,96,Medium,"Crime, Drama",General Audience,https://www.imdb.com/title/tt0050083/,1950
+6,The Lord of the Rings: The Return of the King,2003,9.0,2140140,14.58,201,Long,"Adventure, Drama, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt0167260/,2000
+7,Schindler&apos;s List,1993,9.0,1570735,14.27,195,Long,"Biography, Drama, History",Restricted,https://www.imdb.com/title/tt0108052/,1990
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9,2180075,14.59,178,Long,"Adventure, Drama, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt0120737/,2000
+9,Pulp Fiction,1994,8.8,2408158,14.69,154,Long,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0110912/,1990
+10,"Il buono, il brutto, il cattivo",1966,8.8,883058,13.69,178,Long,"Adventure, Drama, Western",Restricted,https://www.imdb.com/title/tt0060196/,1960
+11,The Lord of the Rings: The Two Towers,2002,8.8,1933945,14.48,179,Long,"Adventure, Drama, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt0167261/,2000
+12,Forrest Gump,1994,8.8,2465704,14.72,142,Medium,"Drama, Romance",Parents Strongly Cautioned,https://www.imdb.com/title/tt0109830/,1990
+13,Fight Club,1999,8.8,2566769,14.76,139,Medium,"Crime, Drama, Thriller",Restricted,https://www.imdb.com/title/tt0137523/,1990
+14,Inception,2010,8.8,2780420,14.84,148,Medium,"Action, Adventure, Sci-Fi",Parents Strongly Cautioned,https://www.imdb.com/title/tt1375666/,2010
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1489505,14.21,124,Medium,"Action, Adventure, Fantasy",Parental Guidance Suggested,https://www.imdb.com/title/tt0080684/,1980
+16,The Matrix,1999,8.7,2223131,14.61,136,Medium,"Action, Sci-Fi",Restricted,https://www.imdb.com/title/tt0133093/,1990
+17,GoodFellas,1990,8.7,1374633,14.13,145,Medium,"Biography, Crime, Drama",Restricted,https://www.imdb.com/title/tt0099685/,1990
+18,Interstellar,2014,8.7,2470372,14.72,169,Long,"Adventure, Drama, Sci-Fi",Parents Strongly Cautioned,https://www.imdb.com/title/tt0816692/,2010
+19,One Flew Over the Cuckoo&apos;s Nest,1975,8.6,1148420,13.95,133,Medium,Drama,Restricted,https://www.imdb.com/title/tt0073486/,1970
+20,Se7en,1995,8.6,1992372,14.5,127,Medium,"Crime, Drama, Mystery",Restricted,https://www.imdb.com/title/tt0114369/,1990
+21,It&apos;s a Wonderful Life,1946,8.6,550527,13.22,130,Medium,"Drama, Family, Fantasy",Parental Guidance Suggested,https://www.imdb.com/title/tt0038650/,1940
+22,The Silence of the Lambs,1991,8.6,1699352,14.35,118,Medium,"Crime, Drama, Horror",Restricted,https://www.imdb.com/title/tt0102926/,1990
+23,Shichinin no samurai,1954,8.6,398639,12.9,207,Long,"Action, Drama",Not Rated,https://www.imdb.com/title/tt0047478/,1950
+24,Saving Private Ryan,1998,8.6,1620307,14.3,169,Long,"Drama, War",Restricted,https://www.imdb.com/title/tt0120815/,1990
+25,The Green Mile,1999,8.6,1542457,14.25,189,Long,"Crime, Drama, Fantasy",Restricted,https://www.imdb.com/title/tt0120689/,1990
+26,Cidade de Deus,2002,8.6,863023,13.67,130,Medium,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0317248/,2000
+27,La vita è bella,1997,8.6,804382,13.6,116,Medium,"Comedy, Drama, Romance",Parents Strongly Cautioned,https://www.imdb.com/title/tt0118799/,1990
+28,Terminator 2: Judgment Day,1991,8.6,1271695,14.06,137,Medium,"Action, Adventure, Sci-Fi",Restricted,https://www.imdb.com/title/tt0103064/,1990
+29,Star Wars,1977,8.6,1554710,14.26,121,Medium,"Action, Adventure, Fantasy",Parental Guidance Suggested,https://www.imdb.com/title/tt0076759/,1970
+30,Back to the Future,1985,8.5,1433965,14.18,116,Medium,"Adventure, Comedy, Sci-Fi",Parental Guidance Suggested,https://www.imdb.com/title/tt0088763/,1980
+31,Sen to Chihiro no kamikakushi,2001,8.6,953074,13.77,124,Medium,"Animation, Adventure, Family",Parental Guidance Suggested,https://www.imdb.com/title/tt0245429/,2000
+32,The Pianist,2002,8.5,1001453,13.82,150,Medium,"Biography, Drama, Music",Restricted,https://www.imdb.com/title/tt0253474/,2000
+33,Gladiator,2000,8.5,1826366,14.42,155,Long,"Action, Adventure, Drama",Restricted,https://www.imdb.com/title/tt0172495/,2000
+34,Gisaengchung,2019,8.5,1138575,13.95,132,Medium,"Drama, Thriller",Restricted,https://www.imdb.com/title/tt6751668/,2010
+35,Hotaru no haka,1988,8.5,376490,12.84,88,Short,"Animation, Drama, War",Not Rated,https://www.imdb.com/title/tt0095327/,1980
+36,Psycho,1960,8.5,778759,13.57,109,Medium,"Drama, Horror, Mystery",Restricted,https://www.imdb.com/title/tt0054215/,1960
+37,The Lion King,1994,8.5,1244983,14.03,88,Short,"Animation, Adventure, Drama",General Audience,https://www.imdb.com/title/tt0110357/,1990
+38,Seppuku,1962,8.6,89006,11.4,133,Medium,"Drama, Mystery",Not Rated,https://www.imdb.com/title/tt0056058/,1960
+39,The Departed,2006,8.5,1537416,14.25,151,Long,"Crime, Drama, Thriller",Restricted,https://www.imdb.com/title/tt0407887/,2000
+40,Whiplash,2014,8.5,1133499,13.94,106,Medium,"Drama, Music",Restricted,https://www.imdb.com/title/tt2582802/,2010
+41,The Prestige,2006,8.5,1568499,14.27,130,Medium,"Drama, Mystery, Sci-Fi",Parents Strongly Cautioned,https://www.imdb.com/title/tt0482571/,2000
+42,American History X,1998,8.5,1262733,14.05,119,Medium,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0120586/,1990
+43,Léon,1994,8.5,1339422,14.11,110,Medium,"Action, Crime, Drama",Restricted,https://www.imdb.com/title/tt0110413/,1990
+44,Spider-Man: Across the Spider-Verse,2023,8.5,505652,13.13,140,Medium,"Animation, Action, Adventure",Parental Guidance Suggested,https://www.imdb.com/title/tt9362722/,2020
+45,Nuovo Cinema Paradiso,1988,8.5,314379,12.66,174,Long,"Drama, Romance",Parental Guidance Suggested,https://www.imdb.com/title/tt0095765/,1980
+46,Casablanca,1942,8.5,650524,13.39,102,Medium,"Drama, Romance, War",Parental Guidance Suggested,https://www.imdb.com/title/tt0034583/,1940
+47,Intouchables,2011,8.5,1014688,13.83,112,Medium,"Comedy, Drama",Restricted,https://www.imdb.com/title/tt1675434/,2010
+48,The Usual Suspects,1995,8.5,1226808,14.02,106,Medium,"Crime, Drama, Mystery",Restricted,https://www.imdb.com/title/tt0114814/,1990
+49,Alien,1979,8.5,1052929,13.87,117,Medium,"Horror, Sci-Fi",Restricted,https://www.imdb.com/title/tt0078748/,1970
+50,Django Unchained,2012,8.5,1858840,14.44,165,Long,"Drama, Western",Restricted,https://www.imdb.com/title/tt1853728/,2010
+51,Modern Times,1936,8.5,283358,12.55,87,Short,"Comedy, Drama, Romance",General Audience,https://www.imdb.com/title/tt0027977/,1930
+52,Rear Window,1954,8.5,564818,13.24,112,Medium,"Drama, Mystery, Thriller",Parental Guidance Suggested,https://www.imdb.com/title/tt0047396/,1950
+53,C&apos;era una volta il West,1968,8.5,381278,12.85,166,Long,"Drama, Western",Parents Strongly Cautioned,https://www.imdb.com/title/tt0064116/,1960
+54,City Lights,1931,8.5,214990,12.28,87,Short,"Comedy, Drama, Romance",General Audience,https://www.imdb.com/title/tt0021749/,1930
+55,Apocalypse Now,1979,8.4,763539,13.55,147,Medium,"Drama, Mystery, War",Restricted,https://www.imdb.com/title/tt0078788/,1970
+56,WALL·E,2008,8.4,1304839,14.08,98,Medium,"Animation, Adventure, Family",General Audience,https://www.imdb.com/title/tt0910970/,2000
+57,Memento,2000,8.4,1421195,14.17,113,Medium,"Drama, Mystery, Thriller",Restricted,https://www.imdb.com/title/tt0209144/,2000
+58,Dune: Part Two,2024,8.4,712092,13.48,166,Long,"Action, Adventure, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt15239678/,2020
+59,Raiders of the Lost Ark,1981,8.4,1102104,13.91,115,Medium,"Action, Adventure",Parental Guidance Suggested,https://www.imdb.com/title/tt0082971/,1980
+60,Avengers: Infinity War,2018,8.4,1349133,14.11,149,Medium,"Action, Adventure, Sci-Fi",Parents Strongly Cautioned,https://www.imdb.com/title/tt4154756/,2010
+61,Das Leben der Anderen,2006,8.4,440246,13.0,137,Medium,"Drama, Mystery, Thriller",Restricted,https://www.imdb.com/title/tt0405094/,2000
+62,Spider-Man: Into the Spider-Verse,2018,8.4,773269,13.56,117,Medium,"Animation, Action, Adventure",Parental Guidance Suggested,https://www.imdb.com/title/tt4633694/,2010
+63,Sunset Blvd.,1950,8.4,259001,12.46,110,Medium,"Drama, Film-Noir",General Audience,https://www.imdb.com/title/tt0043014/,1950
+64,Witness for the Prosecution,1957,8.4,159817,11.98,116,Medium,"Crime, Drama, Mystery",General Audience,https://www.imdb.com/title/tt0051201/,1950
+65,Paths of Glory,1957,8.4,236775,12.37,88,Short,"Drama, War",General Audience,https://www.imdb.com/title/tt0050825/,1950
+66,The Shining,1980,8.4,1211494,14.01,146,Medium,"Drama, Horror",Restricted,https://www.imdb.com/title/tt0081505/,1980
+67,The Great Dictator,1940,8.4,257675,12.46,125,Medium,"Comedy, Drama, War",General Audience,https://www.imdb.com/title/tt0032553/,1940
+68,Inglourious Basterds,2009,8.4,1755397,14.38,153,Long,"Adventure, Drama, War",Restricted,https://www.imdb.com/title/tt0361748/,2000
+69,12th Fail,2023,8.7,166786,12.02,147,Medium,"Biography, Drama",Not Rated,https://www.imdb.com/title/tt23849204/,2020
+70,Aliens,1986,8.4,833946,13.63,137,Medium,"Action, Adventure, Horror",Restricted,https://www.imdb.com/title/tt0090605/,1980
+71,Tengoku to jigoku,1963,8.4,69984,11.16,143,Medium,"Crime, Drama, Mystery",Not Rated,https://www.imdb.com/title/tt0057565/,1960
+72,The Dark Knight Rises,2012,8.4,1972426,14.49,164,Long,"Action, Crime, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt1345836/,2010
+73,Avengers: Endgame,2019,8.4,1422044,14.17,181,Long,"Action, Adventure, Sci-Fi",Parents Strongly Cautioned,https://www.imdb.com/title/tt4154796/,2010
+74,Coco,2017,8.4,693027,13.45,105,Medium,"Animation, Adventure, Drama",Parental Guidance Suggested,https://www.imdb.com/title/tt2380307/,2010
+75,Good Will Hunting,1997,8.3,1194803,13.99,126,Medium,"Drama, Romance",Restricted,https://www.imdb.com/title/tt0119217/,1990
+76,Amadeus,1984,8.4,463954,13.05,160,Long,"Biography, Drama, Music",Parental Guidance Suggested,https://www.imdb.com/title/tt0086879/,1980
+77,Toy Story,1995,8.3,1159847,13.96,81,Short,"Animation, Adventure, Comedy",General Audience,https://www.imdb.com/title/tt0114709/,1990
+78,Kimi no na wa.,2016,8.4,383049,12.86,106,Medium,"Animation, Drama, Fantasy",Not Rated,https://www.imdb.com/title/tt5311514/,2010
+79,Das Boot,1981,8.4,285915,12.56,149,Medium,"Drama, War",Not Rated,https://www.imdb.com/title/tt0082096/,1980
+80,Oldeuboi,2003,8.3,708036,13.47,120,Medium,"Action, Drama, Mystery",Restricted,https://www.imdb.com/title/tt0364569/,2000
+81,Braveheart,1995,8.3,1152652,13.96,178,Long,"Biography, Drama, War",Restricted,https://www.imdb.com/title/tt0112573/,1990
+82,Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,548167,13.21,95,Medium,"Comedy, War",Parental Guidance Suggested,https://www.imdb.com/title/tt0057012/,1960
+83,Mononoke-hime,1997,8.3,477640,13.08,133,Medium,"Animation, Adventure, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt0119698/,1990
+84,American Beauty,1999,8.3,1272180,14.06,122,Medium,Drama,Restricted,https://www.imdb.com/title/tt0169547/,1990
+85,3 Idiots,2009,8.4,476163,13.07,170,Long,"Comedy, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt1187043/,2000
+86,Capharnaüm,2018,8.4,122225,11.71,126,Medium,Drama,Restricted,https://www.imdb.com/title/tt8267604/,2010
+87,Joker,2019,8.3,1670197,14.33,122,Medium,"Crime, Drama, Thriller",Restricted,https://www.imdb.com/title/tt7286456/,2010
+88,Singin&apos; in the Rain,1952,8.3,280132,12.54,103,Medium,"Comedy, Musical, Romance",General Audience,https://www.imdb.com/title/tt0045152/,1950
+89,C&apos;era una volta in America,1984,8.3,405428,12.91,229,Long,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0087843/,1980
+90,Idi i smotri,1985,8.3,120191,11.7,142,Medium,"Drama, Thriller, War",Not Rated,https://www.imdb.com/title/tt0091251/,1980
+91,Star Wars: Episode VI - Return of the Jedi,1983,8.3,1197488,14.0,131,Medium,"Action, Adventure, Fantasy",Parental Guidance Suggested,https://www.imdb.com/title/tt0086190/,1980
+92,Requiem for a Dream,2000,8.3,964607,13.78,102,Medium,Drama,No Children Under 17,https://www.imdb.com/title/tt0180093/,2000
+93,Toy Story 3,2010,8.3,959404,13.77,103,Medium,"Animation, Adventure, Comedy",General Audience,https://www.imdb.com/title/tt0435761/,2010
+94,Ikiru,1952,8.3,100968,11.52,143,Medium,Drama,Not Rated,https://www.imdb.com/title/tt0044741/,1950
+95,Jagten,2012,8.3,403806,12.91,115,Medium,Drama,Restricted,https://www.imdb.com/title/tt2106476/,2010
+96,Incendies,2010,8.3,244835,12.41,131,Medium,"Drama, Mystery, War",Restricted,https://www.imdb.com/title/tt1255953/,2010
+97,Eternal Sunshine of the Spotless Mind,2004,8.3,1170167,13.97,108,Medium,"Drama, Romance, Sci-Fi",Restricted,https://www.imdb.com/title/tt0338013/,2000
+98,The Apartment,1960,8.3,216902,12.29,125,Medium,"Comedy, Drama, Romance",General Audience,https://www.imdb.com/title/tt0053604/,1960
+99,Lawrence of Arabia,1962,8.3,338551,12.73,227,Long,"Adventure, Biography, Drama",General Audience,https://www.imdb.com/title/tt0056172/,1960
+100,2001: A Space Odyssey,1968,8.3,775081,13.56,149,Medium,"Adventure, Sci-Fi",General Audience,https://www.imdb.com/title/tt0062622/,1960
+101,Reservoir Dogs,1992,8.3,1160292,13.96,99,Medium,"Crime, Thriller",Restricted,https://www.imdb.com/title/tt0105236/,1990
+102,Heat,1995,8.3,790755,13.58,170,Long,"Action, Crime, Drama",Restricted,https://www.imdb.com/title/tt0113277/,1990
+103,Scarface,1983,8.3,1002677,13.82,170,Long,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0086250/,1980
+104,Double Indemnity,1944,8.3,179795,12.1,107,Medium,"Crime, Drama, Film-Noir",General Audience,https://www.imdb.com/title/tt0036775/,1940
+105,Up,2009,8.3,1221240,14.02,96,Medium,"Animation, Adventure, Comedy",Parental Guidance Suggested,https://www.imdb.com/title/tt1049413/,2000
+106,North by Northwest,1959,8.3,367556,12.81,136,Medium,"Adventure, Drama, Mystery",General Audience,https://www.imdb.com/title/tt0053125/,1950
+107,Taare Zameen Par,2007,8.3,229469,12.34,162,Long,"Drama, Family",Parental Guidance Suggested,https://www.imdb.com/title/tt0986264/,2000
+108,Full Metal Jacket,1987,8.2,843464,13.65,116,Medium,"Drama, War",Restricted,https://www.imdb.com/title/tt0093058/,1980
+109,M - Eine Stadt sucht einen Mörder,1931,8.3,181489,12.11,99,Medium,"Crime, Mystery, Thriller",General Audience,https://www.imdb.com/title/tt0022100/,1930
+110,Citizen Kane,1941,8.2,490813,13.1,119,Medium,"Drama, Mystery",Parental Guidance Suggested,https://www.imdb.com/title/tt0033467/,1940
+111,Le fabuleux destin d&apos;Amélie Poulain,2001,8.3,833998,13.63,122,Medium,"Comedy, Romance",Restricted,https://www.imdb.com/title/tt0211915/,2000
+112,Vertigo,1958,8.2,456017,13.03,128,Medium,"Mystery, Romance, Thriller",Parental Guidance Suggested,https://www.imdb.com/title/tt0052357/,1950
+113,Jodaeiye Nader az Simin,2011,8.3,275756,12.53,123,Medium,Drama,Parents Strongly Cautioned,https://www.imdb.com/title/tt1832382/,2010
+114,Die Hard,1988,8.2,1021402,13.84,132,Medium,"Action, Thriller",Restricted,https://www.imdb.com/title/tt0095016/,1980
+115,To Kill a Mockingbird,1962,8.3,349503,12.76,129,Medium,"Crime, Drama",General Audience,https://www.imdb.com/title/tt0056592/,1960
+116,The Sting,1973,8.2,297959,12.6,129,Medium,"Comedy, Crime, Drama",Parental Guidance Suggested,https://www.imdb.com/title/tt0070735/,1970
+117,Indiana Jones and the Last Crusade,1989,8.2,857405,13.66,127,Medium,"Action, Adventure, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt0097576/,1980
+118,A Clockwork Orange,1971,8.2,930230,13.74,136,Medium,"Crime, Sci-Fi",Restricted,https://www.imdb.com/title/tt0066921/,1970
+119,Metropolis,1927,8.2,199501,12.2,153,Long,"Drama, Sci-Fi",Not Rated,https://www.imdb.com/title/tt0017136/,1920
+120,Snatch,2000,8.2,968750,13.78,102,Medium,"Comedy, Crime",Restricted,https://www.imdb.com/title/tt0208092/,2000
+121,1917,2019,8.2,759477,13.54,119,Medium,"Action, Drama, War",Restricted,https://www.imdb.com/title/tt8579674/,2010
+122,Confidential,1997,8.2,654403,13.39,138,Medium,"Crime, Drama, Mystery",Restricted,https://www.imdb.com/title/tt0119488/,1990
+123,Der Untergang,2004,8.2,397439,12.89,156,Long,"Biography, Drama, History",Restricted,https://www.imdb.com/title/tt0363163/,2000
+124,The Wolf of Wall Street,2013,8.2,1758015,14.38,180,Long,"Biography, Comedy, Crime",Restricted,https://www.imdb.com/title/tt0993846/,2010
+125,Dangal,2016,8.3,239053,12.38,161,Long,"Action, Biography, Drama",Not Rated,https://www.imdb.com/title/tt5074352/,2010
+126,Ladri di biciclette,1948,8.2,191117,12.16,89,Short,Drama,Not Rated,https://www.imdb.com/title/tt0040522/,1940
+127,Oppenheimer,2023,8.2,995872,13.81,180,Long,"Biography, Drama, History",Restricted,https://www.imdb.com/title/tt15398776/,2020
+128,The Truman Show,1998,8.2,1348470,14.11,103,Medium,"Comedy, Drama",Parental Guidance Suggested,https://www.imdb.com/title/tt0120382/,1990
+129,Green Book,2018,8.2,671590,13.42,130,Medium,"Biography, Comedy, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt6966692/,2010
+130,Shutter Island,2010,8.2,1618111,14.3,138,Medium,"Drama, Mystery, Thriller",Restricted,https://www.imdb.com/title/tt1130884/,2010
+131,Judgment at Nuremberg,1961,8.3,95626,11.47,179,Long,"Drama, History, War",General Audience,https://www.imdb.com/title/tt0055031/,1960
+132,Batman Begins,2005,8.2,1695068,14.34,140,Medium,"Action, Crime, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt0372784/,2000
+133,Hamilton,2020,8.3,136774,11.83,160,Long,"Biography, Drama, History",Parents Strongly Cautioned,https://www.imdb.com/title/tt8503618/,2020
+134,Per qualche dollaro in più,1965,8.2,297297,12.6,132,Medium,"Drama, Western",Restricted,https://www.imdb.com/title/tt0059578/,1960
+135,Taxi Driver,1976,8.2,1013926,13.83,114,Medium,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0075314/,1970
+136,Jurassic Park,1993,8.2,1162838,13.97,127,Medium,"Action, Adventure, Sci-Fi",Parents Strongly Cautioned,https://www.imdb.com/title/tt0107290/,1990
+137,Some Like It Hot,1959,8.2,302645,12.62,121,Medium,"Comedy, Music, Romance",General Audience,https://www.imdb.com/title/tt0053291/,1950
+138,There Will Be Blood,2007,8.2,699437,13.46,158,Long,Drama,Restricted,https://www.imdb.com/title/tt0469494/,2000
+139,The Kid,1921,8.2,144576,11.88,68,Short,"Comedy, Drama, Family",General Audience,https://www.imdb.com/title/tt0012349/,1920
+140,The Father,2020,8.2,240592,12.39,97,Medium,"Drama, Mystery",Parents Strongly Cautioned,https://www.imdb.com/title/tt10272386/,2020
+141,All About Eve,1950,8.2,148089,11.91,138,Medium,Drama,General Audience,https://www.imdb.com/title/tt0042192/,1950
+142,The Sixth Sense,1999,8.2,1132239,13.94,107,Medium,"Drama, Mystery, Thriller",Parents Strongly Cautioned,https://www.imdb.com/title/tt0167404/,1990
+143,Ran,1985,8.2,150012,11.92,160,Long,"Action, Drama, War",Restricted,https://www.imdb.com/title/tt0089881/,1980
+144,Casino,1995,8.2,612079,13.32,178,Long,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0112641/,1990
+145,No Country for Old Men,2007,8.2,1171297,13.97,122,Medium,"Crime, Drama, Thriller",Restricted,https://www.imdb.com/title/tt0477348/,2000
+146,The Thing,1982,8.2,519390,13.16,109,Medium,"Horror, Mystery, Sci-Fi",Restricted,https://www.imdb.com/title/tt0084787/,1980
+147,Top Gun: Maverick,2022,8.2,841543,13.64,130,Medium,"Action, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt1745960/,2020
+148,Prisoners,2013,8.2,916922,13.73,153,Long,"Crime, Drama, Mystery",Restricted,https://www.imdb.com/title/tt1392214/,2010
+149,El laberinto del fauno,2006,8.2,741959,13.52,118,Medium,"Drama, Fantasy, War",Restricted,https://www.imdb.com/title/tt0457430/,2000
+150,1,2003,8.2,1291016,14.07,111,Medium,"Action, Crime, Thriller",Restricted,https://www.imdb.com/title/tt0266697/,2000
+151,Unforgiven,1992,8.2,464964,13.05,130,Medium,"Drama, Western",Restricted,https://www.imdb.com/title/tt0105695/,1990
+152,A Beautiful Mind,2001,8.2,1045900,13.86,135,Medium,"Biography, Drama, Mystery",Parents Strongly Cautioned,https://www.imdb.com/title/tt0268978/,2000
+153,The Treasure of the Sierra Madre,1948,8.2,140446,11.85,126,Medium,"Adventure, Drama, Western",General Audience,https://www.imdb.com/title/tt0040897/,1940
+154,Hauru no ugoku shiro,2004,8.2,504619,13.13,119,Medium,"Animation, Adventure, Family",Parental Guidance Suggested,https://www.imdb.com/title/tt0347149/,2000
+155,Finding Nemo,2003,8.2,1194891,13.99,100,Medium,"Animation, Adventure, Comedy",General Audience,https://www.imdb.com/title/tt0266543/,2000
+156,Yôjinbô,1961,8.2,141797,11.86,110,Medium,"Action, Drama, Thriller",Not Rated,https://www.imdb.com/title/tt0055630/,1960
+157,Klaus,2019,8.2,232373,12.36,96,Medium,"Animation, Adventure, Comedy",Parental Guidance Suggested,https://www.imdb.com/title/tt4729430/,2010
+158,The Great Escape,1963,8.2,275385,12.53,172,Long,"Adventure, Drama, Thriller",General Audience,https://www.imdb.com/title/tt0057115/,1960
+159,The Elephant Man,1980,8.2,279956,12.54,124,Medium,"Biography, Drama",Parental Guidance Suggested,https://www.imdb.com/title/tt0080678/,1980
+160,Monty Python and the Holy Grail,1975,8.2,599572,13.3,91,Medium,"Adventure, Comedy, Fantasy",Parental Guidance Suggested,https://www.imdb.com/title/tt0071853/,1970
+161,La meglio gioventù,2003,8.4,27472,10.22,374,Long,"Drama, Romance",Restricted,https://www.imdb.com/title/tt0346336/,2000
+162,Dial M for Murder,1954,8.2,203165,12.22,105,Medium,"Crime, Drama, Mystery",Parental Guidance Suggested,https://www.imdb.com/title/tt0046912/,1950
+163,Hababam Sinifi: Sinifta Kaldi,1975,8.5,29655,10.3,95,Medium,Comedy,Not Rated,https://www.imdb.com/title/tt0252488/,1970
+164,El secreto de sus ojos,2009,8.2,239812,12.39,129,Medium,"Drama, Mystery, Romance",Restricted,https://www.imdb.com/title/tt1305806/,2000
+165,Gone with the Wind,1939,8.2,353999,12.78,238,Long,"Drama, Romance, War",General Audience,https://www.imdb.com/title/tt0031381/,1930
+166,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,2025,8.4,61977,11.03,155,Long,"Animation, Action, Adventure",Restricted,https://www.imdb.com/title/tt32820897/,2020
+167,Chinatown,1974,8.1,374097,12.83,130,Medium,"Drama, Mystery, Thriller",Restricted,https://www.imdb.com/title/tt0071315/,1970
+168,"Lock, Stock and Two Smoking Barrels",1998,8.1,646416,13.38,107,Medium,"Comedy, Crime",Restricted,https://www.imdb.com/title/tt0120735/,1990
+169,V for Vendetta,2005,8.1,1237956,14.03,132,Medium,"Action, Drama, Sci-Fi",Restricted,https://www.imdb.com/title/tt0434409/,2000
+170,Inside Out,2015,8.1,901544,13.71,95,Medium,"Animation, Adventure, Comedy",Parental Guidance Suggested,https://www.imdb.com/title/tt2096673/,2010
+171,Catch Me If You Can,2002,8.1,1215742,14.01,141,Medium,"Biography, Crime, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt0264464/,2000
+172,Rashômon,1950,8.1,194806,12.18,88,Short,"Crime, Drama, Mystery",Not Rated,https://www.imdb.com/title/tt0042876/,1950
+173,"Three Billboards Outside Ebbing, Missouri",2017,8.1,599732,13.3,115,Medium,"Comedy, Crime, Drama",Restricted,https://www.imdb.com/title/tt5027774/,2010
+174,Trainspotting,1996,8.1,763967,13.55,93,Medium,"Crime, Drama",Restricted,https://www.imdb.com/title/tt0117951/,1990
+175,The Bridge on the River Kwai,1957,8.1,247099,12.42,161,Long,"Adventure, Drama, War",Parental Guidance Suggested,https://www.imdb.com/title/tt0050212/,1950
+176,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,1033129,13.85,130,Medium,"Adventure, Family, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt1201607/,2010
+177,Dead Poets Society,1989,8.1,637270,13.36,128,Medium,"Comedy, Drama",Parental Guidance Suggested,https://www.imdb.com/title/tt0097165/,1980
+178,Fargo,1996,8.1,778071,13.56,98,Medium,"Crime, Drama, Thriller",Restricted,https://www.imdb.com/title/tt0116282/,1990
+179,The Wild Robot,2024,8.2,212540,12.27,102,Medium,"Animation, Adventure, Family",Parental Guidance Suggested,https://www.imdb.com/title/tt29623480/,2020
+180,Warrior,2011,8.1,525039,13.17,140,Medium,"Action, Drama, Sport",Parents Strongly Cautioned,https://www.imdb.com/title/tt1291584/,2010
+181,Raging Bull,1980,8.1,406585,12.92,129,Medium,"Biography, Drama, Sport",Restricted,https://www.imdb.com/title/tt0081398/,1980
+182,Barry Lyndon,1975,8.1,201620,12.21,185,Long,"Adventure, Drama, War",Parental Guidance Suggested,https://www.imdb.com/title/tt0072684/,1970
+183,Ben-Hur,1959,8.1,269235,12.5,212,Long,"Adventure, Drama",General Audience,https://www.imdb.com/title/tt0052618/,1950
+184,Million Dollar Baby,2004,8.1,760815,13.54,132,Medium,"Drama, Sport",Parents Strongly Cautioned,https://www.imdb.com/title/tt0405159/,2000
+185,Mad Max: Fury Road,2015,8.1,1196198,13.99,120,Medium,"Action, Adventure, Sci-Fi",Restricted,https://www.imdb.com/title/tt1392190/,2010
+186,Gran Torino,2008,8.1,856059,13.66,116,Medium,Drama,Restricted,https://www.imdb.com/title/tt1205489/,2000
+187,Bacheha-ye aseman,1997,8.2,88944,11.4,89,Short,"Drama, Family, Sport",Parental Guidance Suggested,https://www.imdb.com/title/tt0118849/,1990
+188,Tonari no Totoro,1988,8.1,425059,12.96,86,Short,"Animation, Adventure, Comedy",General Audience,https://www.imdb.com/title/tt0096283/,1980
+189,Hacksaw Ridge,2016,8.1,669063,13.41,139,Medium,"Biography, Drama, History",Restricted,https://www.imdb.com/title/tt2119532/,2010
+190,12 Years a Slave,2013,8.1,780670,13.57,134,Medium,"Biography, Drama, History",Restricted,https://www.imdb.com/title/tt2024544/,2010
+191,The Grand Budapest Hotel,2014,8.1,955554,13.77,99,Medium,"Comedy, Drama",Restricted,https://www.imdb.com/title/tt2278388/,2010
+192,Before Sunrise,1995,8.1,372244,12.83,101,Medium,"Comedy, Drama, Romance",Restricted,https://www.imdb.com/title/tt0112471/,1990
+193,Ratatouille,2007,8.1,928114,13.74,111,Medium,"Animation, Adventure, Comedy",General Audience,https://www.imdb.com/title/tt0382932/,2000
+194,Blade Runner,1982,8.1,874498,13.68,117,Medium,"Action, Drama, Sci-Fi",Restricted,https://www.imdb.com/title/tt0083658/,1980
+195,Salinui chueok,2003,8.1,260064,12.47,132,Medium,"Crime, Drama, Mystery",Not Rated,https://www.imdb.com/title/tt0353969/,2000
+196,How to Train Your Dragon,2010,8.1,881542,13.69,98,Medium,"Animation, Action, Adventure",Parental Guidance Suggested,https://www.imdb.com/title/tt0892769/,2010
+197,Spider-Man: No Way Home,2021,8.1,999632,13.82,148,Medium,"Action, Adventure, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt10872600/,2020
+198,Gone Girl,2014,8.1,1155727,13.96,149,Medium,"Drama, Mystery, Thriller",Restricted,https://www.imdb.com/title/tt2267998/,2010
+199,"Monsters, Inc.",2001,8.1,1062173,13.88,92,Medium,"Animation, Adventure, Comedy",General Audience,https://www.imdb.com/title/tt0198781/,2000
+200,Jaws,1975,8.1,728985,13.5,124,Medium,"Adventure, Horror, Thriller",Parental Guidance Suggested,https://www.imdb.com/title/tt0073195/,1970
+201,In the Name of the Father,1993,8.1,201206,12.21,133,Medium,"Biography, Crime, Drama",Restricted,https://www.imdb.com/title/tt0107207/,1990
+202,Ford v Ferrari,2019,8.1,559171,13.23,152,Long,"Action, Biography, Drama",Parents Strongly Cautioned,https://www.imdb.com/title/tt1950186/,2010
+203,Relatos salvajes,2014,8.1,235840,12.37,122,Medium,"Comedy, Drama, Thriller",Restricted,https://www.imdb.com/title/tt3011894/,2010
+204,The Gold Rush,1925,8.1,127272,11.75,95,Medium,"Adventure, Comedy, Drama",General Audience,https://www.imdb.com/title/tt0015864/,1920
+205,Sherlock Jr.,1924,8.1,64828,11.08,45,Short,"Action, Comedy, Romance",General Audience,https://www.imdb.com/title/tt0015324/,1920
+206,Mary and Max.,2009,8.1,200435,12.21,92,Medium,"Animation, Comedy, Drama",Not Rated,https://www.imdb.com/title/tt0978762/,2000
+207,The Deer Hunter,1978,8.1,384018,12.86,183,Long,"Drama, War",Restricted,https://www.imdb.com/title/tt0077416/,1970
+208,Le salaire de la peur,1953,8.1,72828,11.2,156,Long,"Adventure, Drama, Thriller",Not Rated,https://www.imdb.com/title/tt0046268/,1950
+209,The General,1926,8.1,105358,11.57,78,Short,"Action, Adventure, Comedy",General Audience,https://www.imdb.com/title/tt0017925/,1920
+210,Logan,2017,8.1,916185,13.73,137,Medium,"Action, Drama, Sci-Fi",Restricted,https://www.imdb.com/title/tt3315342/,2010
+211,Smith Goes to Washington,1939,8.1,128703,11.77,129,Medium,"Comedy, Drama",General Audience,https://www.imdb.com/title/tt0031679/,1930
+212,Rocky,1976,8.1,681103,13.43,120,Medium,"Drama, Sport",Parental Guidance Suggested,https://www.imdb.com/title/tt0075148/,1970
+213,On the Waterfront,1954,8.1,176517,12.08,108,Medium,"Crime, Drama, Thriller",General Audience,https://www.imdb.com/title/tt0047296/,1950
+214,Tôkyô monogatari,1953,8.1,76786,11.25,137,Medium,Drama,Not Rated,https://www.imdb.com/title/tt0046438/,1950
+215,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,1308390,14.08,143,Medium,"Action, Adventure, Fantasy",Parents Strongly Cautioned,https://www.imdb.com/title/tt0325980/,2000
+216,Smultronstället,1957,8.1,123565,11.72,92,Medium,"Drama, Romance",Not Rated,https://www.imdb.com/title/tt0050986/,1950
+217,Spotlight,2015,8.1,530872,13.18,129,Medium,"Biography, Crime, Drama",Restricted,https://www.imdb.com/title/tt1895587/,2010
+218,La haine,1995,8.1,222218,12.31,98,Medium,"Crime, Drama",Not Rated,https://www.imdb.com/title/tt0113247/,1990
+219,The Third Man,1949,8.1,193955,12.18,104,Medium,"Drama, Film-Noir, Mystery",General Audience,https://www.imdb.com/title/tt0041959/,1940
+220,Jai Bhim,2021,8.6,232718,12.36,164,Long,"Crime, Drama",General Audience,https://www.imdb.com/title/tt15097216/,2020
+221,The Terminator,1984,8.1,993453,13.81,107,Medium,"Action, Adventure, Sci-Fi",Restricted,https://www.imdb.com/title/tt0088247/,1980
+222,Maharaja,2024,8.3,79124,11.28,141,Medium,"Action, Crime, Drama",Not Rated,https://www.imdb.com/title/tt26548265/,2020
+223,Koe no katachi,2016,8.2,135794,11.82,130,Medium,"Animation, Drama",Not Rated,https://www.imdb.com/title/tt5323662/,2010
+224,The Sound of Music,1965,8.1,288338,12.57,174,Long,"Biography, Drama, Family",General Audience,https://www.imdb.com/title/tt0059742/,1960
+225,The Big Lebowski,1998,8.1,910252,13.72,117,Medium,"Comedy, Crime",Restricted,https://www.imdb.com/title/tt0118715/,1990
+226,The Best Years of Our Lives,1946,8.1,76813,11.25,170,Long,"Drama, Romance, War",General Audience,https://www.imdb.com/title/tt0036868/,1940
+227,Det sjunde inseglet,1957,8.1,214327,12.28,96,Medium,"Drama, Fantasy",Not Rated,https://www.imdb.com/title/tt0050976/,1950
+228,Gekijô-ban Chensô Man Reze-hen,2025,8.4,43453,10.68,100,Medium,"Animation, Action, Adventure",Restricted,https://www.imdb.com/title/tt30472557/,2020
+229,Room,2015,8.1,477076,13.08,118,Medium,"Drama, Thriller",Restricted,https://www.imdb.com/title/tt3170832/,2010
+230,Before Sunset,2004,8.1,311488,12.65,80,Short,"Drama, Romance",Restricted,https://www.imdb.com/title/tt0381681/,2000
+231,Hotel Rwanda,2004,8.1,389906,12.87,121,Medium,"Biography, Drama, History",Parents Strongly Cautioned,https://www.imdb.com/title/tt0395169/,2000
+232,Marty Supreme,2025,8.2,51563,10.85,149,Medium,"Drama, Sport",Restricted,https://www.imdb.com/title/tt32916440/,2020
+233,Platoon,1986,8.1,468173,13.06,120,Medium,"Drama, War",Restricted,https://www.imdb.com/title/tt0091763/,1980
+234,The Incredibles,2004,8.0,888684,13.7,115,Medium,"Animation, Action, Adventure",Parental Guidance Suggested,https://www.imdb.com/title/tt0317705/,2000
+235,Hachi: A Dog&apos;s Tale,2009,8.1,339124,12.73,93,Medium,"Biography, Drama, Family",General Audience,https://www.imdb.com/title/tt1028532/,2000
+236,The Exorcist,1973,8.1,493906,13.11,122,Medium,Horror,Restricted,https://www.imdb.com/title/tt0070047/,1970
+237,Rush,2013,8.1,553409,13.22,123,Medium,"Biography, Drama, Sport",Restricted,https://www.imdb.com/title/tt1979320/,2010
+238,The Wizard of Oz,1939,8.1,463760,13.05,102,Medium,"Adventure, Family, Fantasy",General Audience,https://www.imdb.com/title/tt0032138/,1930
+239,Stand by Me,1986,8.1,481116,13.08,89,Short,"Adventure, Comedy, Drama",Restricted,https://www.imdb.com/title/tt0092005/,1980
+240,The Iron Giant,1999,8.1,256289,12.45,86,Short,"Animation, Action, Adventure",Parental Guidance Suggested,https://www.imdb.com/title/tt0129167/,1990
+241,La passion de Jeanne d&apos;Arc,1928,8.1,67450,11.12,114,Medium,"Biography, Drama, History",General Audience,https://www.imdb.com/title/tt0019254/,1920
+242,Babam ve Oglum,2005,8.2,99878,11.51,112,Medium,"Drama, Family",Not Rated,https://www.imdb.com/title/tt0476735/,2000
+243,La battaglia di Algeri,1966,8.1,74638,11.22,121,Medium,"Drama, War",Not Rated,https://www.imdb.com/title/tt0058946/,1960
+244,Ah-ga-ssi,2016,8.1,198955,12.2,145,Medium,"Drama, Romance, Thriller",Not Rated,https://www.imdb.com/title/tt4016934/,2010
+245,Network,1976,8.1,184162,12.12,121,Medium,Drama,Restricted,https://www.imdb.com/title/tt0074958/,1970
+246,Gangs of Wasseypur,2012,8.2,112799,11.63,321,Long,"Action, Comedy, Crime",Not Rated,https://www.imdb.com/title/tt1954470/,2010
+247,To Be or Not to Be,1942,8.1,49242,10.8,99,Medium,"Comedy, Romance, War",General Audience,https://www.imdb.com/title/tt0035446/,1940
+248,The Grapes of Wrath,1940,8.1,107652,11.59,129,Medium,Drama,General Audience,https://www.imdb.com/title/tt0032551/,1940
+249,Drishyam,2015,8.2,107011,11.58,163,Long,"Crime, Drama, Mystery",Not Rated,https://www.imdb.com/title/tt4430212/,2010
+250,Soorarai Pottru,2020,8.6,131136,11.78,153,Long,Drama,Not Rated,https://www.imdb.com/title/tt10189514/,2020
